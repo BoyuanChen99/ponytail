@@ -49,7 +49,7 @@
 <a href="https://theretriever.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/retriever-dark.svg">
-    <img src="assets/retriever-light.svg" height="44" alt="Retriever">
+    <img src="assets/retriever-light.svg" height="128" alt="Retriever">
   </picture>
 </a>
 
