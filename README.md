@@ -46,9 +46,12 @@
 
 ## Already built with Ponytail
 
-<a href="https://theretriever.app"><img src="assets/retriever-icon.png" width="96" alt="Retriever"></a>
+<p>
+  <a href="https://theretriever.app"><img src="assets/retriever-icon.png" width="96" alt="Retriever"></a><br>
+  <a href="https://theretriever.app"><strong>Retriever</strong></a>
+</p>
 
-[**Retriever**](https://theretriever.app)
+---
 
 You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one.
 
