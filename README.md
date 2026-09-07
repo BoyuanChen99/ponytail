@@ -46,7 +46,12 @@
 
 ## Already built with Ponytail
 
-<a href="https://theretriever.app"><img src="assets/retriever-icon.png" width="44" align="absmiddle" alt="Retriever"></a>&nbsp;&nbsp;<a href="https://theretriever.app"><strong>Retriever</strong></a>
+<a href="https://theretriever.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/retriever-dark.svg">
+    <img src="assets/retriever-light.svg" height="44" alt="Retriever">
+  </picture>
+</a>
 
 ---
 
