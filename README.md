@@ -46,10 +46,7 @@
 
 ## Already built with Ponytail
 
-<p>
-  <a href="https://theretriever.app"><img src="assets/retriever-icon.png" width="96" alt="Retriever"></a><br>
-  <a href="https://theretriever.app"><strong>Retriever</strong></a>
-</p>
+<a href="https://theretriever.app"><img src="assets/retriever-icon.png" width="44" align="absmiddle" alt="Retriever"></a>&nbsp;&nbsp;<a href="https://theretriever.app"><strong>Retriever</strong></a>
 
 ---
 
