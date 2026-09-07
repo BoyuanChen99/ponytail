@@ -47,8 +47,7 @@
 <p align="center">
   <strong>Already built with Ponytail</strong><br><br>
   <a href="https://theretriever.app"><img src="assets/retriever-icon.png" width="96" alt="Retriever"></a><br>
-  <a href="https://theretriever.app"><strong>Retriever</strong></a><br>
-  <sub>Mac data recovery. Free to scan, pay once.</sub>
+  <a href="https://theretriever.app"><strong>Retriever</strong></a>
 </p>
 
 You know him. Long ponytail. Oval glasses. Has been at the company longer than the version control. You show him fifty lines; he looks at them, says nothing, and replaces them with one.
